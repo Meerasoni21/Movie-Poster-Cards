@@ -20,5 +20,9 @@ Download the repository
 
 #### Output/Screenshots
 
-![battery-indicator](https://github.com/Meerasoni21/
-[battery-indicator](https://github.com/Meerasoni21/
+https://github.com/Meerasoni21/Movie-Poster-Cards/blob/main/movie.png
+https://github.com/Meerasoni21/Movie-Poster-Cards/blob/main/movie1.png
+https://github.com/Meerasoni21/Movie-Poster-Cards/blob/main/movie2.png
+https://github.com/Meerasoni21/Movie-Poster-Cards/blob/main/movie3.png
+https://github.com/Meerasoni21/Movie-Poster-Cards/blob/main/movie4.png
+https://github.com/Meerasoni21/Movie-Poster-Cards/blob/main/movie5.png
